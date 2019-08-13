@@ -3933,9 +3933,9 @@
       "type": "Feature",
       "properties": {
         "name": "Amuay",
-        "min-duration-out-in": 0.8,
+        "min-duration-out-in": 1,
         "same-edge-in-out": "",
-        "min-duration-in-out": 1
+        "min-duration-in-out": 0.8
       },
       "geometry": {
         "type": "Polygon",
